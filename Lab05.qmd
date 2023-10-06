@@ -3,7 +3,7 @@ title: "Lab05"
 author: Catherine Le
 format: 
   html:
-    embed resources: true
+    embed-resources: true
 editor: visual
 ---
 
